@@ -1,4 +1,4 @@
-# E2E API Testing framework
+# An Example E2E testing framwork
 
 This is a sample framework for testing REST endpoints available on https://restful-booker.herokuapp.com/apidoc/index.html
 
