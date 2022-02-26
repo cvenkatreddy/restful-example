@@ -1,7 +1,6 @@
 # E2E API Testing framework
 
-This is a E2E Rest API testing framework for sample endpoints available in https://restful-booker.herokuapp.com/apidoc/index.html, 
-The published APIs represent a booking system where user can create, update and cancel bookings.
+This is a sample framework for testing REST services available on https://restful-booker.herokuapp.com/apidoc/index.html
 
 Tests are written using a combination of Java, RestAssured, TestNG & Maven.
 
